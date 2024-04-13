@@ -1,0 +1,14 @@
+<img src="formbg.png" style="margin-left:19% ;margin-top: 5.4%; width: 425px; height: 550px;">
+#bd139e
+<input type="button" value="Sign Up" class="zzz" style="margin-left: 285px;margin-top: 400px; position: relative;">
+<input type="button" value="Log In" class="zzz" style="margin-left: 285px;margin-top: 350px; position: relative;">
+
+function Login1(){
+    
+    if (a=="Sahir") {
+      document.write("HEllo world");
+    }
+    else {
+      document.write("didn't work")
+    }
+    }
